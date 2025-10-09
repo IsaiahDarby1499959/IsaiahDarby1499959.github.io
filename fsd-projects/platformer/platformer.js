@@ -50,10 +50,11 @@ createCollectable("diamond",650,150)
  createCollectable("diamond",400,200)
  createCollectable("diamond",600,500)   
     // TODO 4 - Create Cannons
-
-
-    
-    
+createCannon("bottom",250,1500);
+createCannon("right",645,2500)
+createCannon("right",750,6000)    
+createCannon("top",800,5000)    
+createCannon("left",200,8000)
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
